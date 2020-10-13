@@ -14,5 +14,5 @@ print("press q")
 while run:
     if keyboard.is_pressed('q'):
         print("snip snap")
-        camera.capture('foo.jpg')
+        camera.capture('alex.jpg')
         run = False
