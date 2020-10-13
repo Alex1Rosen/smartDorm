@@ -4,7 +4,7 @@ import keyboard
 
 camera = PiCamera()
 camera.resolution = (1024,768)
-camera.startpreview()
+camera.start_preview()
 #camera warm up
 sleep(2)
 
