@@ -16,3 +16,9 @@ while run:
         print("snip snap")
         camera.capture('alex.jpg')
         run = False
+
+
+
+
+
+
